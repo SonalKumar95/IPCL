@@ -1,6 +1,6 @@
 # IPCL: ITERATIVE PSEUDO-SUPERVISED CONTRASTIVE LEARNING TO IMPROVE SELF-SUPERVISED FEATURE REPRESENTATION.
 ### This [Paper](https://ieeexplore.ieee.org/document/10447607) is accepted in the 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024'
-
+### Watch the IPCL presentation on [YouTube]( https://youtu.be/NveOLS1IB8Q)
 <div align="center">
   <img width="100%" alt="DINO illustration" src="IPCL.gif">
 </div>
